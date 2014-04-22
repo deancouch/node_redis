@@ -1,6 +1,11 @@
 Changelog
 =========
 
+## v0.10.2 - April 23, 2014
+
+* Merged pull request #463 - add enable_persistent_queue option
+* https://github.com/Unroll-Me/node_redis/branches/persistent_offline_queue
+
 ## v0.10.1 - February 17, 2014
 
 * Skip plucking redis version from the INFO stream if INFO results weren't provided. (Robert Sköld)
